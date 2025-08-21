@@ -1,0 +1,14 @@
+E:\My projects\Projects C#\Frist_Project\Frist_Project\obj\Debug\net8.0\Frist_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\My projects\Projects C#\Frist_Project\Frist_Project\obj\Debug\net8.0\Frist_Project.AssemblyInfoInputs.cache
+E:\My projects\Projects C#\Frist_Project\Frist_Project\obj\Debug\net8.0\Frist_Project.AssemblyInfo.cs
+E:\My projects\Projects C#\Frist_Project\Frist_Project\obj\Debug\net8.0\Frist_Project.csproj.CoreCompileInputs.cache
+E:\My projects\Projects C#\Frist_Project\Frist_Project\bin\Debug\net8.0\Frist_Project.exe
+E:\My projects\Projects C#\Frist_Project\Frist_Project\bin\Debug\net8.0\Frist_Project.deps.json
+E:\My projects\Projects C#\Frist_Project\Frist_Project\bin\Debug\net8.0\Frist_Project.runtimeconfig.json
+E:\My projects\Projects C#\Frist_Project\Frist_Project\bin\Debug\net8.0\Frist_Project.dll
+E:\My projects\Projects C#\Frist_Project\Frist_Project\bin\Debug\net8.0\Frist_Project.pdb
+E:\My projects\Projects C#\Frist_Project\Frist_Project\obj\Debug\net8.0\Frist_Project.dll
+E:\My projects\Projects C#\Frist_Project\Frist_Project\obj\Debug\net8.0\refint\Frist_Project.dll
+E:\My projects\Projects C#\Frist_Project\Frist_Project\obj\Debug\net8.0\Frist_Project.pdb
+E:\My projects\Projects C#\Frist_Project\Frist_Project\obj\Debug\net8.0\Frist_Project.genruntimeconfig.cache
+E:\My projects\Projects C#\Frist_Project\Frist_Project\obj\Debug\net8.0\ref\Frist_Project.dll
